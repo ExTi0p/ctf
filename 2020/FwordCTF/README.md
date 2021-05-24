@@ -1,2 +1,2 @@
-# FwordCTF_2020
+# FwordCTF
 I participated with SHRECS, we ended up 40th.
