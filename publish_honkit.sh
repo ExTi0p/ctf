@@ -6,6 +6,7 @@ git reset --hard master
 
 # build honkit
 npm install
+npm audit fix
 npx honkit build
 
 # copy the static site files into the current directory.
