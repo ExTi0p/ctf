@@ -4,6 +4,7 @@
 * [2021](2021/README.md)
     * [CyberDefenders](2021/CyberDefenders/README.md)
         * [HoneyBOT (DFIR & reverse, 1700)](2021/CyberDefenders/DFIR/honeybot.md)
+        * [WireDive (forensic, 6275)](2021/CyberDefenders/forensic/wiredive.md)
     * [FCSC](2021/FCSC/README.md)
         * [Ordiphone0 (forensic, 42)](2021/FCSC/forensic/ordiphone-0.md)
         * [Ordiphone2 (forensic, 197)](2021/FCSC/forensic/ordiphone-2.md)
